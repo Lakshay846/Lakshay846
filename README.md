@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lakshay
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ReactJS projects
 - 📫 You can reach out to me via email lakshaykumar0906@gmail.com 
 
